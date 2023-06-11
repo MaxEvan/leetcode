@@ -1,0 +1,13 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "repository": "git@github.com:MaxEvan/leetcode.git",
+  "author": "Maxime Evangeliste <max.evangeliste@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "new": "npx tsx ./new.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.0"
+  }
+}
