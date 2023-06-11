@@ -5,7 +5,8 @@
   "author": "Maxime Evangeliste <max.evangeliste@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "new": "npx tsx ./new.ts"
+    "new": "npx tsx ./new.ts",
+    "exe": "npx tsx"
   },
   "devDependencies": {
     "@types/node": "^20.3.0"
